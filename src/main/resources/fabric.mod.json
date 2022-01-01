@@ -23,10 +23,6 @@
       "com.xyaneon.coppernuggets.CopperNuggetsMod"
     ]
   },
-  "mixins": [
-    "coppernuggets.mixins.json"
-  ],
-
   "depends": {
     "fabricloader": ">=0.11.3",
     "fabric": "*",
