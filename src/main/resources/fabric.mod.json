@@ -9,11 +9,12 @@
     "Xyaneon"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/Xyaneon/copper-nuggets",
+    "issues": "https://github.com/Xyaneon/copper-nuggets/issues",
+    "sources": "https://github.com/Xyaneon/copper-nuggets"
   },
 
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/coppernuggets/icon.png",
 
   "environment": "*",
@@ -31,8 +32,5 @@
     "fabric": "*",
     "minecraft": "1.18.x",
     "java": ">=17"
-  },
-  "suggests": {
-    "another-mod": "*"
   }
 }
