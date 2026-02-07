@@ -2,6 +2,9 @@
 
 A very basic Fabric mod which only adds Copper Nuggets to Minecraft.
 
+> [!IMPORTANT]
+> Copper Nuggets are now part of Vanilla Minecraft since the [1.21.9 (The Copper Age) update](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-9). This mod is now obsolete and will not receive any further updates.
+
 ## Screenshots
 
 ![Crafting 9 Copper Nuggets from a Copper Ingot](https://github.com/Xyaneon/copper-nuggets/blob/1.18/screenshots/Copper%20Ingots%20to%20Copper%20Nuggets.png)
